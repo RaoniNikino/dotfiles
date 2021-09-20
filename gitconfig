@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = raoni.pirat@gmail.com
+	name = RaoniPirat
